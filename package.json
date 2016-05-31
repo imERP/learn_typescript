@@ -1,0 +1,30 @@
+{
+  "name": "ime_one",
+  "version": "0.0.1",
+  "description": "这是一个学习TypeScript的示例",
+  "main": "./lib/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learntc/learn_typescript"
+  },
+  "keywords": [
+    "typescript",
+    "cheenwe"
+  ],
+  "author": "cheenwe",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/learntc/learn_typescript/issues"
+  },
+  "dependencies": {
+    "react-dom": "~15.1.0",
+    "react": "~15.1.0"
+  },
+  "devDependencies": {
+    "ts-loader": "~0.8.2",
+    "source-map-loader": "~0.1.5"
+  }
+}
